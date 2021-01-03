@@ -2,25 +2,173 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marinating1105/monogue.github.io</id>
     <title>monogue</title>
-    <updated>2020-12-31T13:14:56.678Z</updated>
+    <updated>2021-01-03T06:27:15.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://marinating1105/monogue.github.io"/>
     <link rel="self" href="https://marinating1105/monogue.github.io/atom.xml"/>
-    <subtitle>thoughts aloud</subtitle>
+    <subtitle>所见所闻所喜</subtitle>
     <logo>https://marinating1105/monogue.github.io/images/avatar.png</logo>
     <icon>https://marinating1105/monogue.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, monogue</rights>
+    <rights>All rights reserved 2021, monogue</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://marinating1105/monogue.github.io/post/hello-gridea/</id>
-        <link href="https://marinating1105/monogue.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[电影#3 | 《极速车王》]]></title>
+        <id>https://marinating1105/monogue.github.io/post/movies-3/</id>
+        <link href="https://marinating1105/monogue.github.io/post/movies-3/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <updated>2021-01-02T07:56:21.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[书籍#2 | 《牧羊少年奇幻之旅》]]></title>
+        <id>https://marinating1105/monogue.github.io/post/books-2/</id>
+        <link href="https://marinating1105/monogue.github.io/post/books-2/">
+        </link>
+        <updated>2021-01-02T06:54:27.000Z</updated>
+        <summary type="html"><![CDATA[<p>作者：[巴西] 保罗·科埃略<br>
+译者：丁文林<br>
+页数：217页<br>
+又名：The Alchemist</p>
+<p>这是一个关于牧羊少年追寻理想的人生童话。牧羊少年圣地亚哥在连续两次梦见埃及金字塔附近有一批神秘的宝藏后，卖掉了他的羊群，一路向南，最终来到了金字塔前，发现了埋藏已久的宝藏。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <content type="html"><![CDATA[<p>作者：[巴西] 保罗·科埃略<br>
+译者：丁文林<br>
+页数：217页<br>
+又名：The Alchemist</p>
+<p>这是一个关于牧羊少年追寻理想的人生童话。牧羊少年圣地亚哥在连续两次梦见埃及金字塔附近有一批神秘的宝藏后，卖掉了他的羊群，一路向南，最终来到了金字塔前，发现了埋藏已久的宝藏。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电视剧#2 | 《女王的棋局》]]></title>
+        <id>https://marinating1105/monogue.github.io/post/tv-2/</id>
+        <link href="https://marinating1105/monogue.github.io/post/tv-2/">
+        </link>
+        <updated>2021-01-01T18:40:24.000Z</updated>
+        <summary type="html"><![CDATA[<p>导演：<br>
+编剧：<br>
+主演：<br>
+类型：<br>
+片长：<br>
+又名：The Queen's Gambit</p>
+<p>根据同名短片小说改编，这个关于国际象棋天才的成长故事即记录了风光也探索了成功背后的艰难。50年代末，年幼的贝丝·哈蒙因为一场车祸被托付给了一家讲究规矩，滥用镇静药的女孤儿院。在那里她发现了自己的国际象棋天分，同时对药物上了瘾。这样天赋异禀且努力进取的棋手在经历过家庭波折、失败、自我怀疑，自暴自弃和救赎才渐渐杀出重围，女主打破了由男性主导的国际象棋战场。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>导演：<br>
+编剧：<br>
+主演：<br>
+类型：<br>
+片长：<br>
+又名：The Queen's Gambit</p>
+<p>根据同名短片小说改编，这个关于国际象棋天才的成长故事即记录了风光也探索了成功背后的艰难。50年代末，年幼的贝丝·哈蒙因为一场车祸被托付给了一家讲究规矩，滥用镇静药的女孤儿院。在那里她发现了自己的国际象棋天分，同时对药物上了瘾。这样天赋异禀且努力进取的棋手在经历过家庭波折、失败、自我怀疑，自暴自弃和救赎才渐渐杀出重围，女主打破了由男性主导的国际象棋战场。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电影#2 | 《心灵奇旅》]]></title>
+        <id>https://marinating1105/monogue.github.io/post/movies-2/</id>
+        <link href="https://marinating1105/monogue.github.io/post/movies-2/">
+        </link>
+        <updated>2021-01-01T18:12:29.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://movie.douban.com/subject/24733428/">豆瓣</a><br>
+<a href="https://www.rottentomatoes.com/m/soul_2020">烂番茄</a><br>
+<a href="https://www.imdb.com/title/tt2948372/">IMDb</a></p>
+<p>导演：彼特·道格特/凯普·鲍尔斯<br>
+编剧：彼特·道格特/麦克·琼斯/凯普·鲍尔斯<br>
+主演：杰米·福克斯/蒂娜·菲<br>
+类型：动画/音乐/奇幻<br>
+片长：2h 32min<br>
+又名：Soul</p>
+<p>一个怀揣爵士梦想的中学音乐老师乔伊·高纳获得了梦寐以求的表演机会后，一个小事故把他从纽约的街道带到了「生之来处」，灵魂的起点。在那里他”被迫“帮助一个早熟的厌世灵魂“二十二”找到属于她自己的“火花”。在屡次失败的过程中，高纳开始领悟一些人生的终极答案。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://movie.douban.com/subject/24733428/">豆瓣</a><br>
+<a href="https://www.rottentomatoes.com/m/soul_2020">烂番茄</a><br>
+<a href="https://www.imdb.com/title/tt2948372/">IMDb</a></p>
+<p>导演：彼特·道格特/凯普·鲍尔斯<br>
+编剧：彼特·道格特/麦克·琼斯/凯普·鲍尔斯<br>
+主演：杰米·福克斯/蒂娜·菲<br>
+类型：动画/音乐/奇幻<br>
+片长：2h 32min<br>
+又名：Soul</p>
+<p>一个怀揣爵士梦想的中学音乐老师乔伊·高纳获得了梦寐以求的表演机会后，一个小事故把他从纽约的街道带到了「生之来处」，灵魂的起点。在那里他”被迫“帮助一个早熟的厌世灵魂“二十二”找到属于她自己的“火花”。在屡次失败的过程中，高纳开始领悟一些人生的终极答案。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[摩诺哥周刊 第1期 |]]></title>
+        <id>https://marinating1105/monogue.github.io/post/mo-nuo-ge-zhou-kan-di-1-qi-or/</id>
+        <link href="https://marinating1105/monogue.github.io/post/mo-nuo-ge-zhou-kan-di-1-qi-or/">
+        </link>
+        <updated>2020-12-31T13:24:40.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[书籍#1 | 《查令十字街84号》]]></title>
+        <id>https://marinating1105/monogue.github.io/post/books-1/</id>
+        <link href="https://marinating1105/monogue.github.io/post/books-1/">
+        </link>
+        <updated>2020-12-31T13:23:37.000Z</updated>
+        <summary type="html"><![CDATA[<p>作者：[美] 海莲·汉芙<br>
+译者：陈建铭<br>
+页数：155页<br>
+又名：84, Charing Cross Road</p>
+<p>1949年的纽约，曼哈顿的一位三十三岁的穷作家和阅读迷-海莲，偶然看到了一则远在伦敦的旧书店的广告。凭着对稀有珍本的喜爱，她开始给这家书店写信，一写就是二十年。多年以后，海莲将来往的信件整理出版。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>作者：[美] 海莲·汉芙<br>
+译者：陈建铭<br>
+页数：155页<br>
+又名：84, Charing Cross Road</p>
+<p>1949年的纽约，曼哈顿的一位三十三岁的穷作家和阅读迷-海莲，偶然看到了一则远在伦敦的旧书店的广告。凭着对稀有珍本的喜爱，她开始给这家书店写信，一写就是二十年。多年以后，海莲将来往的信件整理出版。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电视剧#1 | 凪的新生活]]></title>
+        <id>https://marinating1105/monogue.github.io/post/tv-1/</id>
+        <link href="https://marinating1105/monogue.github.io/post/tv-1/">
+        </link>
+        <updated>2020-12-31T13:22:14.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://www.bilibili.com/bangumi/play/ep313084?bsource=baidu_aladdin"><span style="color:black"><strong>bilibili</strong></span></a></p>
+<p>导演：坪井敏雄/山本刚义<br>
+编剧：大岛里美<br>
+主演：黑木华/高桥一生/中村伦也<br>
+类型：爱情/剧情/搞笑<br>
+片长：45分钟/集 10集</p>
+<p>28岁的大岛凪是一个“阅读空气”的重度患者 -- 敏感于察言观色，做出符合气氛反应和讨好身边的所有人。在同事面前如此，在男朋友和家人面前亦是如此。无意中发现同事和男友分别对她的鄙夷评价后，凪酱跑到了小镇开始风平浪静(?)的遁世生活。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.bilibili.com/bangumi/play/ep313084?bsource=baidu_aladdin"><span style="color:black"><strong>bilibili</strong></span></a></p>
+<p>导演：坪井敏雄/山本刚义<br>
+编剧：大岛里美<br>
+主演：黑木华/高桥一生/中村伦也<br>
+类型：爱情/剧情/搞笑<br>
+片长：45分钟/集 10集</p>
+<p>28岁的大岛凪是一个“阅读空气”的重度患者 -- 敏感于察言观色，做出符合气氛反应和讨好身边的所有人。在同事面前如此，在男朋友和家人面前亦是如此。无意中发现同事和男友分别对她的鄙夷评价后，凪酱跑到了小镇开始风平浪静(?)的遁世生活。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乱记]]></title>
+        <id>https://marinating1105/monogue.github.io/post/shuo-liao/</id>
+        <link href="https://marinating1105/monogue.github.io/post/shuo-liao/">
+        </link>
+        <updated>2020-12-31T13:21:32.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电影#1 | 谁先爱上他的]]></title>
+        <id>https://marinating1105/monogue.github.io/post/movies-1/</id>
+        <link href="https://marinating1105/monogue.github.io/post/movies-1/">
+        </link>
+        <updated>2020-12-31T13:15:35.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://movie.douban.com/subject/27119586/">豆瓣</a><br>
+<a href="https://www.rottentomatoes.com/m/dear_ex">烂番茄</a><br>
+<a href="https://www.imdb.com/title/tt8443704/">IMDb</a></p>
+<p>导演：徐誉庭/许智彦<br>
+编剧：徐誉庭/吕蒔媛<br>
+主演：邱泽/谢盈萱/陈如山<br>
+类型：爱情/剧情/搞笑<br>
+片长：1h 40min</p>
+<p>丈夫去世后把人寿保险受益人改成了一个陌生男性的名字。刘三连带着儿子找上了这位“小三”。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://movie.douban.com/subject/27119586/">豆瓣</a><br>
+<a href="https://www.rottentomatoes.com/m/dear_ex">烂番茄</a><br>
+<a href="https://www.imdb.com/title/tt8443704/">IMDb</a></p>
+<p>导演：徐誉庭/许智彦<br>
+编剧：徐誉庭/吕蒔媛<br>
+主演：邱泽/谢盈萱/陈如山<br>
+类型：爱情/剧情/搞笑<br>
+片长：1h 40min</p>
+<p>丈夫去世后把人寿保险受益人改成了一个陌生男性的名字。刘三连带着儿子找上了这位“小三”。</p>
 ]]></content>
     </entry>
 </feed>

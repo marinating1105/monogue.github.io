@@ -1,0 +1,169 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>乱记 | monogue</title>
+<link rel="shortcut icon" href="https://marinating1105/monogue.github.io/favicon.ico?v=1609654478026">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="stylesheet" href="https://marinating1105/monogue.github.io/styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="乱记 | monogue - Atom Feed" href="https://marinating1105/monogue.github.io/atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+
+    <meta name="description" content="不堪的记忆力让我成为了一个没有故事的女同学。
+不堪的表达能力埋葬了我仅有的故事。
+表达情感，常常给我一种在公共场合脱光一样的感觉。
+不喜欢这般狼狈。
+但神奇的是最近想写些出来。
+收藏记忆和那些有温度的生活碎片。
+我想定格一些时刻，随时提醒我..." />
+    <meta name="keywords" content="乱记" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://marinating1105/monogue.github.io">
+  <img class="avatar" src="https://marinating1105/monogue.github.io/images/avatar.png?v=1609654478026" alt="">
+  </a>
+  <h1 class="site-title">
+    monogue
+  </h1>
+  <p class="site-description">
+    所见所闻所喜
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="mag" class="menu">
+          摩诺哥周刊
+        </a>
+      
+    
+      
+        <a href="/tags" class="menu">
+          巧克力盒
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+</div>
+
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              乱记
+            </h2>
+            <div class="post-info">
+              <span>
+                2020-12-31
+              </span>
+              
+                <a href="https://marinating1105/monogue.github.io/tag/mess/" class="post-tag">
+                  # 乱记
+                </a>
+              
+            </div>
+            
+            <div class="post-content-wrapper">
+              <div class="post-content">
+                <p>不堪的记忆力让我成为了一个没有故事的女同学。<br>
+不堪的表达能力埋葬了我仅有的故事。</p>
+<p>表达情感，常常给我一种在公共场合脱光一样的感觉。<br>
+不喜欢这般狼狈。<br>
+但神奇的是最近想写些出来。<br>
+收藏记忆和那些有温度的生活碎片。<br>
+我想定格一些时刻，随时提醒我，我是谁。<br>
+那就随“我”去吧。</p>
+<p>希望文字能赋予我人生沉甸甸的饱足感。<br>
+就好。</p>
+
+              </div>
+              <div class="toc-container">
+                
+              </div>
+            </div>
+          </article>
+        </div>
+
+        
+          <div class="next-post">
+            <div class="next">下一篇</div>
+            <a href="https://marinating1105/monogue.github.io/post/movies-1/">
+              <h3 class="post-title">
+                电影#1 | 谁先爱上他的
+              </h3>
+            </a>
+          </div>
+        
+
+        
+
+        <div class="site-footer">
+  饱足感
+  <a class="rss" href="https://marinating1105/monogue.github.io/atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
+</div>
+
+      </div>
+    </div>
+
+    <script>
+      hljs.initHighlightingOnLoad()
+
+      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+      // This should probably be throttled.
+      // Especially because it triggers during smooth scrolling.
+      // https://lodash.com/docs/4.17.10#throttle
+      // You could do like...
+      // window.addEventListener("scroll", () => {
+      //    _.throttle(doThatStuff, 100);
+      // });
+      // Only not doing it here to keep this Pen dependency-free.
+
+      window.addEventListener("scroll", event => {
+        let fromTop = window.scrollY;
+
+        mainNavLinks.forEach((link, index) => {
+          let section = document.getElementById(decodeURI(link.hash).substring(1));
+          let nextSection = null
+          if (mainNavLinks[index + 1]) {
+            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+          }
+          if (section.offsetTop <= fromTop) {
+            if (nextSection) {
+              if (nextSection.offsetTop > fromTop) {
+                link.classList.add("current");
+              } else {
+                link.classList.remove("current");    
+              }
+            } else {
+              link.classList.add("current");
+            }
+          } else {
+            link.classList.remove("current");
+          }
+        });
+      });
+
+    </script>
+  </body>
+</html>
